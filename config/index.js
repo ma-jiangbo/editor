@@ -55,7 +55,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/jrg-project-5/resumer/dist',
+    assetsPublicPath: '/',
 
     /**
      * Source Maps
