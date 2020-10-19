@@ -15,7 +15,7 @@
     "leancloud-storage": "^3.6.0",
     "node-sass": "^4.7.2",
     "normalize.css": "^8.0.0",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.5",
     "sass-loader": "^6.0.7",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
